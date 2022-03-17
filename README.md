@@ -1,3 +1,10 @@
+# About the app
+Application developed to overcome the necessary to have functionality that was able to read a pdf file and convert it to image, and then be upload using API, in an application React using Typescript.
+
+This example has only the necessary to make it work.
+
+It uses the react-pdf library <https://www.npmjs.com/package/react-pdf>, to display the file in a canvas element, from where it is possible to get the image, in case necessary, there is a function that converts the image in base64 to Blob.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
